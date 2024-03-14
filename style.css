@@ -1,0 +1,28 @@
+body{
+    background-color: lightblue;
+}
+
+h2 {
+    color: navy;
+    margin-left: 20%;   
+    padding-left: 70px;  
+    margin-bottom: 20px;
+    border-style: double; 
+}
+
+div{
+    height: auto;
+    width: auto;
+    background-color: red;
+    padding-left: 70px; 
+    border-style: dashed;
+    
+}
+
+p {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
